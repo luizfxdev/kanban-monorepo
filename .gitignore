@@ -1,0 +1,9 @@
+.env
+
+apps/web/.next/
+apps/web/node_modules/
+apps/api/tmp/
+apps/api/server
+
+.DS_Store
+Thumbs.db
